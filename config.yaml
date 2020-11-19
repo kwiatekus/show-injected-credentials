@@ -1,0 +1,6 @@
+name: log-regis-credentials-fn
+namespace: demo
+runtime: nodejs12
+source:
+    sourceType: inline
+    sourcePath: /Users/i303803/wookiee/log-regis-credentials-fn
