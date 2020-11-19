@@ -1,6 +1,6 @@
-name: log-regis-credentials-fn
+name: show-injected-credentials
 namespace: demo
 runtime: nodejs12
 source:
-    sourceType: inline
-    sourcePath: /Users/i303803/wookiee/log-regis-credentials-fn
+  sourceType: inline
+  sourcePath: /Users/i303803/wookiee/show-injected-credentials
